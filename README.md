@@ -8,3 +8,11 @@ ollama run dolphin3:8b
 
 --------------------------------------------------------------------------------------------------------------------
 Enjoy!
+
+PS: 
+
+It's completely uncesonred and I take no personal responsibility for missuse or abuse of it.
+
+FUCH has no coorelation or anything to do with the internet personality known as FUCH.
+
+FUCH has absolutely no warranty to the extent of the applicable law.
